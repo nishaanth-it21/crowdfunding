@@ -1,0 +1,34 @@
+.project-details-container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  background: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.project-details-container h2 {
+  color: #333;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.project-details-container p {
+  font-size: 16px;
+  color: #555;
+  margin: 8px 0;
+}
+
+.project-details-container a {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 15px;
+  background: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.project-details-container a:hover {
+  background: #0056b3;
+}
